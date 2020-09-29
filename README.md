@@ -1,27 +1,26 @@
-# Sean Kross
+# Alejandro Boichetta
 
 ### Geography
 
-I live in the city of Baltimore, in the state of Maryland, in the United States
-of America.
+I live in the city of Capital Federal, in Argentina
 
-### Reading
+### Gaming
 
-Three of my favorite books are:
+Three of my favorite games are:
 
-- *Mindstorms* by Seymour Papert
-- *Welcome to the Monkey House* by Kurt Vonnegut
-- *Persepolis* by Marjane Satrapi
+- *Persona 4* by Atlus
+- *Legend of Heroes: Trails in the Sky* by Falcom
+- *Final Fantasy IX* by Squaresoft
 
 ### Food
 
-Last night I dreamt about eating in these restaurants:
+My top 3 favorite restaurants are:
 
-1. Linger in Denver.
-2. Azura in Jerusalem.
-3. Gemma in New York City.
+1. Prima Pasta in Miami.
+2. Nueva Casa Japonesa in Capital Federal.
+3. Sbarro in New York City.
 
 ### Contact
 
-The best way to get in touch with me is [on Twitter](https://twitter.com/seankross).
+The best way to get in touch with me is [on Instagram](https://www.instagram.com/ale.boiche/?hl=es-la).
 
